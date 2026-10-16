@@ -1,0 +1,6 @@
+interface:
+  display_name: "Image-to-Pixel Art Workflow"
+  short_description: "Redraw, rasterize, and refine native-grid pixel art"
+  default_prompt: "Use $image2-pixel-art-workflow to turn this reference into polished pixel art."
+policy:
+  allow_implicit_invocation: true
