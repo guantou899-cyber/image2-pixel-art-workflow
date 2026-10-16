@@ -4,9 +4,9 @@ A reusable Codex Skill for making deliberate pixel art: choose an appropriate na
 
 ## Install
 
-Download [`Image2_像素重绘栅格化_Skill.zip`](./Image2_像素重绘栅格化_Skill.zip), extract it, then copy the `image2-pixel-art-workflow` folder into your project `.agents/skills/` directory or your personal Codex skills directory. Restart/refresh Codex and invoke `$image2-pixel-art-workflow`.
+Download this repository with **Code → Download ZIP**, extract it, and copy the `image2-pixel-art-workflow` folder into your project `.agents/skills/` directory or your personal Codex skills directory. Restart/refresh Codex and invoke `$image2-pixel-art-workflow`.
 
-The source skill folder is included in this repository for inspection and adaptation. The Chinese quick-start is [`README_安装与授权.md`](./README_安装与授权.md).
+The source skill folder is included for inspection and adaptation. The Chinese quick-start is [`README_安装与授权.md`](./README_安装与授权.md).
 
 ## Attribution and license
 
